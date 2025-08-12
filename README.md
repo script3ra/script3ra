@@ -12,3 +12,9 @@
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=script3ra&theme=radical" alt="">
   </a>
 </p>
+
+---
+<p align="center">
+    <a href="https://t.me/script3ra"><img src="https://img.shields.io/badge/Telegram-%20-26A5E4?logo=telegram&logoColor=ffffff"></a>
+    <img src="https://komarev.com/ghpvc/?username=script3ra&style=flat-round&color=blue" alt="views"/>
+</p>

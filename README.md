@@ -1,0 +1,17 @@
+<!-- PROFILE HEADER -->
+<h1 align="center">Hello world! this.<a href="https://github.com/script3ra">script3ra</a> 👋</h1>
+<p align="center">
+  C# • Python • MySQL • SQLAlchemy • Docker • Playwright • Appium • Telegram etc...
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=script3ra&show_icons=true&rank_icon=github&theme=radical">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=script3ra&show_icons=true&rank_icon=github&theme=radical" alt="stats">
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=script3ra&theme=radical">
+    <img height="189" src="https://github-readme-streak-stats.herokuapp.com?user=script3ra&theme=radical" alt="streak">
+  </a>
+</p>
+
+
+---

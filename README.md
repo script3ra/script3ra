@@ -6,12 +6,9 @@
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=script3ra&show_icons=true&rank_icon=github&theme=radical">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=script3ra&show_icons=true&rank_icon=github&theme=radical" alt="stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=script3ra&show_icons=true&rank_icon=github&theme=radical" alt="stats">
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com?user=script3ra&theme=radical">
-    <img height="189" src="https://github-readme-streak-stats.herokuapp.com?user=script3ra&theme=radical" alt="streak">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=script3ra&theme=radical" alt="streak">
   </a>
 </p>
-
-
----
